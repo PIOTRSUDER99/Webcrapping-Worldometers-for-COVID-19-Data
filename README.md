@@ -7,4 +7,4 @@ In order to download the data regarding a specific country, upon being asked, yo
 It is also possible to obtain the data for the whole world. In such case you should provide the program with the following URL:
 https://www.worldometers.info/coronavirus/
 
-Note, that the script was built using Python 3.7, so it is recommended to use the same or newer version of Python when running it.
+Note, that the script was built using Python 3.7.1, so it is recommended to use the same or newer version of Python when running it.
