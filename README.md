@@ -1,4 +1,4 @@
-# Webcrapping-Worldometers-for-COVID-19-Data
+# Webscrapping-Worldometers-for-COVID-19-Data
 Python script which allows for easy and efficient webscrapping of the Data regarding COVID-19 from https://www.worldometers.info/coronavirus/. The script outputs the data in the form of an xls file. 
 
 # Instructions
